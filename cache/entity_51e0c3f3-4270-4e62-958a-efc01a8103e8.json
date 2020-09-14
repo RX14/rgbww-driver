@@ -1,0 +1,28 @@
+{
+    "gates": {
+        "06e95bb4-16e7-4e51-8788-71bc343e4abd": {
+            "name": "Channel 2",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "de22550f-caa8-4584-96dd-4fbae3db029e"
+        },
+        "39739e0c-ff13-4f9f-aa3e-f18c4cc19130": {
+            "name": "Channel 1",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "78c4cf5f-e494-4bd4-859e-82e7d93478df"
+        },
+        "e8973902-9d5c-40fd-bd6b-4168588b210f": {
+            "name": "Main",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "74f9ad99-40ba-4fe6-9c12-d20ed4850789"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TPS92518",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "51e0c3f3-4270-4e62-958a-efc01a8103e8"
+}

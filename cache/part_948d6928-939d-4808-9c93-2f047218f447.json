@@ -1,0 +1,141 @@
+{
+    "MPN": [
+        false,
+        "TPS92518PWP"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/gpn/tps92518"
+    ],
+    "description": [
+        false,
+        "Dual Channel Buck LED Controller with SPI Interface, Analog and PWM Dimming"
+    ],
+    "entity": "51e0c3f3-4270-4e62-958a-efc01a8103e8",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "814fadf6-ef2f-4d1b-808f-d54d767a272a",
+    "orderable_MPNs": {
+        "488e11ac-0d6f-4534-bb06-caffbe3bf73e": "TPS92518PWPT",
+        "ba2a285a-37c1-4551-8535-ec40785a98b3": "TPS92518PWPR"
+    },
+    "package": "08e8cd4d-5146-4920-8211-a5508f8dc45b",
+    "pad_map": {
+        "0184b215-50a3-4fea-a50a-56f6bc4504a2": {
+            "gate": "e8973902-9d5c-40fd-bd6b-4168588b210f",
+            "pin": "ddf52d9f-20f3-43fb-9c10-d56d0e767071"
+        },
+        "0483991e-f9f9-4e56-aa14-8f5b1f014797": {
+            "gate": "e8973902-9d5c-40fd-bd6b-4168588b210f",
+            "pin": "99f6baa0-fe72-4d79-aeeb-6aced09b57dd"
+        },
+        "20be4db8-e34a-48ca-abce-b68cdfc59aaf": {
+            "gate": "e8973902-9d5c-40fd-bd6b-4168588b210f",
+            "pin": "5695c70e-a83d-4bce-b5bf-98b08ba0d8f8"
+        },
+        "2199de67-59aa-4bd0-b371-1852c4fbf41c": {
+            "gate": "06e95bb4-16e7-4e51-8788-71bc343e4abd",
+            "pin": "a8c1f5e8-d49c-44d3-a17c-1fe742e2e3f5"
+        },
+        "3ae94f3e-900c-42b3-9510-55ec7739a1a5": {
+            "gate": "39739e0c-ff13-4f9f-aa3e-f18c4cc19130",
+            "pin": "939a1dad-affe-4215-bf30-5eb0b0da3b50"
+        },
+        "4946f258-5165-48b7-bc67-593bf536b055": {
+            "gate": "e8973902-9d5c-40fd-bd6b-4168588b210f",
+            "pin": "5695c70e-a83d-4bce-b5bf-98b08ba0d8f8"
+        },
+        "54963480-88b2-480e-949e-759a13c87bec": {
+            "gate": "e8973902-9d5c-40fd-bd6b-4168588b210f",
+            "pin": "df0aae11-4b2a-4a3b-afbe-4962f867b7d2"
+        },
+        "55125a62-6631-4361-81f3-990941164b8e": {
+            "gate": "06e95bb4-16e7-4e51-8788-71bc343e4abd",
+            "pin": "029895b3-0d69-4fb7-8ee1-30c97a768e7f"
+        },
+        "56dab3f7-5352-4eb3-8edd-d1bf00741e94": {
+            "gate": "39739e0c-ff13-4f9f-aa3e-f18c4cc19130",
+            "pin": "cf0eb6d6-6351-4e25-9871-08815925750c"
+        },
+        "7c6208c9-b8a7-4b52-85fd-eddaf629b268": {
+            "gate": "e8973902-9d5c-40fd-bd6b-4168588b210f",
+            "pin": "0e00e1c2-7d35-4295-9271-2ac77b348ae6"
+        },
+        "829b8cd5-8faa-4fef-89e2-9b9183c8b665": {
+            "gate": "06e95bb4-16e7-4e51-8788-71bc343e4abd",
+            "pin": "4228e88f-f136-43db-99e8-95c9eeb3cafb"
+        },
+        "831d1873-9d3a-40b4-8e3a-a6e882d80a20": {
+            "gate": "e8973902-9d5c-40fd-bd6b-4168588b210f",
+            "pin": "de262f44-3c97-4281-a5df-f1e0f37ef43b"
+        },
+        "8d4dba9b-80ce-4c5b-9a24-0421ab934169": {
+            "gate": "39739e0c-ff13-4f9f-aa3e-f18c4cc19130",
+            "pin": "655efb0c-4c4e-4632-a5e0-e4e4fd87b0c9"
+        },
+        "ad951210-b91d-4905-b675-e8471b7d3f30": {
+            "gate": "06e95bb4-16e7-4e51-8788-71bc343e4abd",
+            "pin": "b4cbd821-f567-423c-b599-deb4201a6a5a"
+        },
+        "aedc9a5e-1100-4e81-8778-6877b4623425": {
+            "gate": "39739e0c-ff13-4f9f-aa3e-f18c4cc19130",
+            "pin": "e88fe201-d833-41e9-83dc-b77ece37c31a"
+        },
+        "b65b9b1d-c57d-4822-bb3a-1459f56a193c": {
+            "gate": "06e95bb4-16e7-4e51-8788-71bc343e4abd",
+            "pin": "d98e6390-5583-4bb4-a7cd-72ec12f1b7d5"
+        },
+        "becc8967-5b91-4cd7-abc2-d89266839ade": {
+            "gate": "39739e0c-ff13-4f9f-aa3e-f18c4cc19130",
+            "pin": "2c9e5758-9dad-462e-836b-dbd17d7ec6d2"
+        },
+        "c0c2cf7d-65a5-43e8-a010-09ed1c7617aa": {
+            "gate": "39739e0c-ff13-4f9f-aa3e-f18c4cc19130",
+            "pin": "21e152c6-ce15-477d-a5b3-48ee320ba0aa"
+        },
+        "ca3bb227-c55e-40b0-a867-7590d20e2903": {
+            "gate": "06e95bb4-16e7-4e51-8788-71bc343e4abd",
+            "pin": "1cc27435-8b23-4ae8-95ad-5666c15b6bff"
+        },
+        "e0a2729c-8080-44e4-b5e8-5e6c8355782d": {
+            "gate": "06e95bb4-16e7-4e51-8788-71bc343e4abd",
+            "pin": "6fd4db8d-340b-414d-aa74-1518079cf0f1"
+        },
+        "e20702a5-1f4d-4f8a-9239-92eb89f3e6d7": {
+            "gate": "e8973902-9d5c-40fd-bd6b-4168588b210f",
+            "pin": "5695c70e-a83d-4bce-b5bf-98b08ba0d8f8"
+        },
+        "e46b28e8-aaff-4166-b4b3-a90af9226114": {
+            "gate": "06e95bb4-16e7-4e51-8788-71bc343e4abd",
+            "pin": "caf09656-0e5c-4281-8117-b19b7bd0b9b8"
+        },
+        "e740372b-a2eb-4a7c-80af-8f83c15a158e": {
+            "gate": "e8973902-9d5c-40fd-bd6b-4168588b210f",
+            "pin": "512d4c4a-5f81-461b-8646-bb418d164ed5"
+        },
+        "fcbeb647-61c4-410c-901f-b865b29c0621": {
+            "gate": "39739e0c-ff13-4f9f-aa3e-f18c4cc19130",
+            "pin": "0d9c2a4c-306c-4945-b8f9-f5546a3d3922"
+        },
+        "ff6f7808-4bcc-4b55-bbef-6f581e9dca86": {
+            "gate": "39739e0c-ff13-4f9f-aa3e-f18c4cc19130",
+            "pin": "554dc78d-ca21-49cb-adc4-435d991928be"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dcdc",
+        "ic",
+        "led"
+    ],
+    "type": "part",
+    "uuid": "948d6928-939d-4808-9c93-2f047218f447",
+    "value": [
+        false,
+        ""
+    ]
+}

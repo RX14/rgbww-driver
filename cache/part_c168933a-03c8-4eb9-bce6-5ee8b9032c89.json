@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "MSS1278T"
+    ],
+    "datasheet": [
+        false,
+        "https://www.coilcraft.com/getmedia/e8d7b32a-defa-4500-bc0f-6ecc558fcde6/mss1278t.pdf"
+    ],
+    "description": [
+        false,
+        "High Temperature Shielded Power Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Coilcraft"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "db1e2fa5-0a71-4b02-8125-e512005cb9bd",
+    "pad_map": {
+        "16e5e87e-d5bb-4a2d-9d79-eab0e4623cfe": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "7523e526-86e9-45bf-ad7a-c5ffe544d692": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "c168933a-03c8-4eb9-bce6-5ee8b9032c89",
+    "value": [
+        false,
+        ""
+    ]
+}

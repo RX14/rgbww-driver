@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TPS92518 Channel 1",
+    "pins": {
+        "0d9c2a4c-306c-4945-b8f9-f5546a3d3922": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "BOOT1",
+            "swap_group": 0
+        },
+        "21e152c6-ce15-477d-a5b3-48ee320ba0aa": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VCC1",
+            "swap_group": 0
+        },
+        "2c9e5758-9dad-462e-836b-dbd17d7ec6d2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSN1",
+            "swap_group": 0
+        },
+        "554dc78d-ca21-49cb-adc4-435d991928be": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VLED1",
+            "swap_group": 0
+        },
+        "655efb0c-4c4e-4632-a5e0-e4e4fd87b0c9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SW1",
+            "swap_group": 0
+        },
+        "939a1dad-affe-4215-bf30-5eb0b0da3b50": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PWM1",
+            "swap_group": 0
+        },
+        "cf0eb6d6-6351-4e25-9871-08815925750c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSP1",
+            "swap_group": 0
+        },
+        "e88fe201-d833-41e9-83dc-b77ece37c31a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "GATE1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "78c4cf5f-e494-4bd4-859e-82e7d93478df"
+}
