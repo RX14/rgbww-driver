@@ -1,15 +1,15 @@
 {
     "MPN": [
         false,
-        "MSS1278T"
+        "MSS1278"
     ],
     "datasheet": [
         false,
-        "https://www.coilcraft.com/getmedia/e8d7b32a-defa-4500-bc0f-6ecc558fcde6/mss1278t.pdf"
+        "https://www.coilcraft.com/getmedia/6eb5ea38-40e4-41a6-9f92-3cdf8e907dcd/mss1278.pdf"
     ],
     "description": [
         false,
-        "High Temperature Shielded Power Inductor"
+        "Shielded Surface Mount Power Inductor"
     ],
     "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
     "inherit_model": false,
@@ -33,7 +33,8 @@
     "parametric": {},
     "tags": [
         "inductor",
-        "passive"
+        "passive",
+        "smd"
     ],
     "type": "part",
     "uuid": "c168933a-03c8-4eb9-bce6-5ee8b9032c89",

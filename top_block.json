@@ -83,6 +83,7 @@
             "custom_pin_names": {},
             "entity": "c135130c-0663-4575-9083-3b328ac00c90",
             "group": "00000000-0000-0000-0000-000000000000",
+            "part": "7ae96454-3ba9-40d2-8088-59d144a3b376",
             "pin_names": {},
             "refdes": "Q1",
             "tag": "b233f4b3-9eb6-427c-92d0-655bc107f97c",
@@ -134,6 +135,7 @@
             "custom_pin_names": {},
             "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
             "group": "00000000-0000-0000-0000-000000000000",
+            "part": "cbeda48c-7fb0-4cfb-a4de-d9672e8cc190",
             "pin_names": {},
             "refdes": "R2",
             "tag": "cc35a426-a38a-4bb4-ae9b-3fff20bfc300",
@@ -154,6 +156,23 @@
             "pin_names": {},
             "refdes": "D1",
             "tag": "2326ca47-2a54-4a24-8b48-23f59d2a6d82",
+            "value": ""
+        },
+        "c415005f-292d-4344-b1a8-b04682a38408": {
+            "connections": {
+                "eb7f68b1-6fba-4a35-a470-2cecb23fe087/588536f1-9e96-4500-bcbb-4ba48082b643": {
+                    "net": "7df145f2-ec8b-4a6f-bd88-347a37860dda"
+                },
+                "eb7f68b1-6fba-4a35-a470-2cecb23fe087/b3cef4f5-fe6c-45b5-b063-1618f997168f": {
+                    "net": "8002b0a9-4f88-44da-9dd4-e594d380e47f"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "pin_names": {},
+            "refdes": "J1",
+            "tag": "1d889895-b2cc-4e03-a78f-6b8648637003",
             "value": ""
         },
         "cb5e8f74-5912-4785-aa14-31f390655bf7": {
@@ -225,7 +244,7 @@
             "custom_pin_names": {},
             "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
             "group": "00000000-0000-0000-0000-000000000000",
-            "part": "f2604d92-e282-4300-a4db-496585bb469b",
+            "part": "257c13aa-f5e2-43cf-8197-2cfa52019ccf",
             "pin_names": {},
             "refdes": "R1",
             "tag": "f519b018-e6d2-4bd6-a2dc-2e7c7fa40dc9",
@@ -257,7 +276,7 @@
         },
         "5c44cef0-322e-4436-8283-f6526069a598": {
             "is_power": false,
-            "name": "",
+            "name": "CH1_DRAIN",
             "net_class": "12f142b6-b5c5-4bc9-bf01-76f3e3db7a63",
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
@@ -285,7 +304,7 @@
         },
         "8eb6f68a-96fc-4433-8cd4-9542cc260204": {
             "is_power": false,
-            "name": "",
+            "name": "CH1_SOURCE",
             "net_class": "12f142b6-b5c5-4bc9-bf01-76f3e3db7a63",
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
@@ -315,6 +334,7 @@
     "project_meta": {
         "author": "Stephanie Wilde-Hobbs",
         "date": "2020-09-08",
+        "license": "CC BY-SA 4.0",
         "project_name": "rgbww-driver",
         "project_title": "RGBWW Driver Board",
         "rev": "1"
@@ -322,6 +342,7 @@
     "tag_names": {
         "047c4e2a-73e2-4644-8a4f-df2693553faa": "6",
         "14505720-f0f5-44f9-8a63-bda657107922": "5",
+        "1d889895-b2cc-4e03-a78f-6b8648637003": "11",
         "2326ca47-2a54-4a24-8b48-23f59d2a6d82": "7",
         "337ad7ec-52af-4d9b-9396-aad9286da964": "3",
         "5d490850-e2c5-488d-a906-0c31a00f7821": "0",

@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "ERJ8BWFR100"
+    ],
+    "base": "3cfc0897-cdc4-462f-ade4-f41bdf2bac54",
+    "datasheet": [
+        false,
+        "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C313.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Resistor Current Sensing 100mΩ 1% 1W"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "7fa80e4e-5fe2-4ce6-a161-693501d5e153": "ERJ8BWFR100X",
+        "ecb558ab-16a8-45fe-a1f9-c14037941f90": "ERJ8BWFR100V"
+    },
+    "parametric": {
+        "pmax": "1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "0.1"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "257c13aa-f5e2-43cf-8197-2cfa52019ccf",
+    "value": [
+        false,
+        "100 mΩ"
+    ]
+}

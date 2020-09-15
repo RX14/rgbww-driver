@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "MSS1278T-563M"
+        "MSS1278-683M"
     ],
     "base": "c168933a-03c8-4eb9-bce6-5ee8b9032c89",
     "datasheet": [
@@ -20,19 +20,19 @@
     ],
     "model": "00000000-0000-0000-0000-000000000000",
     "orderable_MPNs": {
-        "5b7befb7-dbc0-4e7d-b391-0a7c15387271": "MSS1278T-563MLD"
+        "5b7befb7-dbc0-4e7d-b391-0a7c15387271": "MSS1278-683MLD"
     },
     "parametric": {
-        "dcr": "0.0892",
-        "idc": "2.7",
+        "dcr": "0.1015",
+        "idc": "2.6",
         "table": "inductors",
-        "value": "5.6e-05"
+        "value": "6.8e-05"
     },
     "tags": [],
     "type": "part",
     "uuid": "48266a1f-21af-4ca5-92bd-f07e230169b7",
     "value": [
         false,
-        "56 µH"
+        "68 µH"
     ]
 }

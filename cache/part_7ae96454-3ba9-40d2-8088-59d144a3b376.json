@@ -1,0 +1,59 @@
+{
+    "MPN": [
+        false,
+        "BSC054N04NSG"
+    ],
+    "datasheet": [
+        false,
+        "https://www.infineon.com/dgdl/Infineon-BSC054N04NSG-DS-v02_01-en.pdf?fileId=db3a30431689f4420116c46167a0083c"
+    ],
+    "description": [
+        false,
+        "N-channel Power MOSFET 40V, 81A, 5.4mΩ"
+    ],
+    "entity": "c135130c-0663-4575-9083-3b328ac00c90",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Infineon"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "b8ae8780-cf89-4fed-b007-3c1cf5feecf1": "BSC054N04NSGATMA1"
+    },
+    "package": "15b1265a-9c53-4401-b59f-f4e1f4990edc",
+    "pad_map": {
+        "01d9c9de-a4bc-4906-974b-8d254ad9ea4a": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "2cff381e-60a0-4ef5-9983-06418ced531c": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "3c906047-c1d9-47cc-b3a8-7c4c4f5d30e1": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "54eaf7db-9900-443d-8eb5-ef08c82a33a1": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "7519b1a7-ab27-4161-beb2-82207bca6946": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "7ae96454-3ba9-40d2-8088-59d144a3b376",
+    "value": [
+        false,
+        ""
+    ]
+}
