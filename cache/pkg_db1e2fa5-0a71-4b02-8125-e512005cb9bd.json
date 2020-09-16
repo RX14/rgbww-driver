@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "d121a6e3-dc06-4b35-bbbd-4e6249110fc6",
     "dimensions": {},
     "junctions": {
         "048ebab4-be13-41a5-8fda-adff0f2b6fc5": {
@@ -134,7 +134,17 @@
         }
     },
     "manufacturer": "Coilcraft",
-    "models": {},
+    "models": {
+        "d121a6e3-dc06-4b35-bbbd-4e6249110fc6": {
+            "filename": "3d_models/manufacturer/coilcraft/MSS1278.step",
+            "pitch": 0,
+            "roll": 49152,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "MSS1278",
     "pads": {
         "16e5e87e-d5bb-4a2d-9d79-eab0e4623cfe": {

@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "C1210C225K1RACAUTO"
+    ],
+    "base": "171459b6-3f63-4850-866f-910d0e4b351b",
+    "datasheet": [
+        false,
+        "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C1210C225K5RACAUTO"
+    ],
+    "description": [
+        true,
+        "SMD MLCC, X5R Dielectric, 4 – 50 VDC"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "KEMET"
+    ],
+    "model": "43bad17b-ab78-4d5a-8cc8-f5c0fcafe87f",
+    "orderable_MPNs": {
+        "2f549e4c-1df3-45c0-baab-e5b202b2feea": "C1210C225K1RACAUTO"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "2.2e-06",
+        "wvdc": "100"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "eaa1aac1-5e44-462e-953d-47d891b36721",
+    "value": [
+        false,
+        "2.2 µF"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "manufacturer": "Würth Elektronik",
+    "name": "Switched Barrel Jack",
+    "pins": {
+        "0fa04459-fc6c-4a02-8ebb-18abf6a43f53": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Switch",
+            "swap_group": 0
+        },
+        "43758315-8476-4ca5-9608-3147052c8180": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Tip",
+            "swap_group": 0
+        },
+        "a9a24bf1-8359-43bc-8b7e-78261b82257d": {
+            "direction": "input",
+            "names": [
+                "Barrel"
+            ],
+            "primary_name": "Sleeve",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3e39f76e-2dd6-49f3-8725-c14b2634e896"
+}

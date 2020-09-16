@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "694106301002"
+    ],
+    "datasheet": [
+        false,
+        "http://katalog.we-online.de/datasheet/694106301002.pdf"
+    ],
+    "description": [
+        false,
+        "Barrel Jack, Right Angle, 2.0mm inner 5.5mm outer"
+    ],
+    "entity": "834db965-f4aa-4497-8ede-4c3f6c108452",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Würth Elektronik"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "44ddd7bb-e086-4160-8f18-b601b6f8be80",
+    "pad_map": {
+        "ac16538d-0857-4e7a-9a2e-be87113e0c60": {
+            "gate": "7fe3ddfe-c2f1-4a8c-87cc-b8088705825a",
+            "pin": "a9a24bf1-8359-43bc-8b7e-78261b82257d"
+        },
+        "cf39dd9d-0bea-4101-a114-924d277446e6": {
+            "gate": "7fe3ddfe-c2f1-4a8c-87cc-b8088705825a",
+            "pin": "43758315-8476-4ca5-9608-3147052c8180"
+        },
+        "feca11c1-c58d-422a-9976-55ce66a265b6": {
+            "gate": "7fe3ddfe-c2f1-4a8c-87cc-b8088705825a",
+            "pin": "0fa04459-fc6c-4a02-8ebb-18abf6a43f53"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "barrel",
+        "connector",
+        "jack"
+    ],
+    "type": "part",
+    "uuid": "d771181a-8577-45a1-b7ef-236dfbd0067e",
+    "value": [
+        false,
+        ""
+    ]
+}

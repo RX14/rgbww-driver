@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "7fe3ddfe-c2f1-4a8c-87cc-b8088705825a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3e39f76e-2dd6-49f3-8725-c14b2634e896"
+        }
+    },
+    "manufacturer": "Würth Elektronik",
+    "name": "Switched Barrel Jack",
+    "prefix": "J",
+    "tags": [
+        "barrel",
+        "connector",
+        "jack",
+        "switched"
+    ],
+    "type": "entity",
+    "uuid": "834db965-f4aa-4497-8ede-4c3f6c108452"
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "C1210x"
+    ],
+    "base": "ce744d78-f7d9-4997-8666-fd10d77eccb6",
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SMD MLCC, X5R Dielectric, 4 – 50 VDC"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "KEMET"
+    ],
+    "model": "43bad17b-ab78-4d5a-8cc8-f5c0fcafe87f",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "171459b6-3f63-4850-866f-910d0e4b351b",
+    "value": [
+        true,
+        ""
+    ]
+}
