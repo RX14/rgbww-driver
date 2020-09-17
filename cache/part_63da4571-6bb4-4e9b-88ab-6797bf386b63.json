@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "RB021VAM90"
+    ],
+    "base": "94de1685-094f-4f9a-99c0-e1be42e3bb1a",
+    "datasheet": [
+        false,
+        "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rb021vam90tr-e.pdf"
+    ],
+    "description": [
+        false,
+        "Surface Mount Schottky Diode 90V 200mA 490mV"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "ROHM"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "4c691a9e-56d0-452a-8e77-d8d564806c6b": "RB021VAM90TR"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "63da4571-6bb4-4e9b-88ab-6797bf386b63",
+    "value": [
+        true,
+        "base SOD-323HE diode"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "MC0603B104J160C"
+    ],
+    "base": "436da8ee-a0a4-4ab4-ae41-10323bb580e5",
+    "datasheet": [
+        false,
+        "http://www.farnell.com/datasheets/2860632.pdf"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor 0.1 µF 16V X7R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Multicomp Pro"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "2f266a18-f8b3-4f7f-b97e-f2d2cdfc0d9f": "MC0603B104J160CT"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "X7R",
+        "value": "1e-07",
+        "wvdc": "16"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "73311472-7174-444f-9dfc-624fa89fbeb4",
+    "value": [
+        false,
+        "0.1 µF"
+    ]
+}
