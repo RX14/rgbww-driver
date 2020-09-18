@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "RLP73K2BR15F"
+    ],
+    "base": "69d9d487-801a-40ab-a821-5a7a6ee8c623",
+    "datasheet": [
+        false,
+        "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773269%7FH1%7Fpdf%7FEnglish%7FENG_DS_1773269_H1.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Resistor Current Sensing 150 mΩ 1% 0.5W"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "0aab9d43-7aaa-47d5-bcad-15dde8d6826a": "RLP73K2BR15FTE",
+        "31bc7c8a-e6da-48bb-a7c2-f353c5f396c2": "RLP73K2BR15FTDF",
+        "e1e72ebc-eabc-4e16-aaa8-de5bab8aa1d8": "RLP73K2BR15FTD"
+    },
+    "parametric": {
+        "pmax": "0.5",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "0.15"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "7367fce3-b136-4269-a696-83588c6b90fa",
+    "value": [
+        false,
+        "150.00 mΩ"
+    ]
+}
