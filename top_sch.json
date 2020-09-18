@@ -2290,12 +2290,9 @@
                             100000000
                         ]
                     },
-                    "smashed": true,
+                    "smashed": false,
                     "symbol": "e2cde69b-9fa7-4332-ba8f-7e5b3ee8ad73",
-                    "texts": [
-                        "153bb4a4-777e-4f8e-bf56-ab1d73516877",
-                        "dc691ca4-93cc-46be-844e-809a32b64c5f"
-                    ]
+                    "texts": []
                 },
                 "b0f1cc05-10cf-4222-97c2-ce3f039c1397": {
                     "component": "e242a4f0-637b-499b-a3d7-9ebe97fbca16",
@@ -2445,12 +2442,9 @@
                             165000000
                         ]
                     },
-                    "smashed": true,
+                    "smashed": false,
                     "symbol": "e2cde69b-9fa7-4332-ba8f-7e5b3ee8ad73",
-                    "texts": [
-                        "6548a79b-577d-43c9-889f-1c327b390aef",
-                        "d990b9d5-ee60-461d-851c-eb82e4708b0c"
-                    ]
+                    "texts": []
                 },
                 "f44a8c7e-b0e3-40e8-93a5-f82d629e8920": {
                     "component": "cb5e8f74-5912-4785-aa14-31f390655bf7",
@@ -2492,23 +2486,6 @@
                 }
             },
             "texts": {
-                "153bb4a4-777e-4f8e-bf56-ab1d73516877": {
-                    "font": "simplex",
-                    "from_smash": true,
-                    "layer": 0,
-                    "origin": "center",
-                    "placement": {
-                        "angle": 0,
-                        "mirror": false,
-                        "shift": [
-                            200000000,
-                            97500000
-                        ]
-                    },
-                    "size": 1000000,
-                    "text": "$VALUE",
-                    "width": 0
-                },
                 "561a2596-69ac-4902-b78e-4509a67447b0": {
                     "font": "simplex",
                     "from_smash": true,
@@ -2524,23 +2501,6 @@
                     },
                     "size": 1500000,
                     "text": "$REFDES",
-                    "width": 0
-                },
-                "6548a79b-577d-43c9-889f-1c327b390aef": {
-                    "font": "simplex",
-                    "from_smash": true,
-                    "layer": 0,
-                    "origin": "center",
-                    "placement": {
-                        "angle": 0,
-                        "mirror": false,
-                        "shift": [
-                            200000000,
-                            162500000
-                        ]
-                    },
-                    "size": 1000000,
-                    "text": "$VALUE",
                     "width": 0
                 },
                 "75c9a54a-83b7-4d65-9eb9-ec85e774092d": {
@@ -2588,40 +2548,6 @@
                         "shift": [
                             206875000,
                             94375000
-                        ]
-                    },
-                    "size": 1500000,
-                    "text": "$REFDES",
-                    "width": 0
-                },
-                "d990b9d5-ee60-461d-851c-eb82e4708b0c": {
-                    "font": "simplex",
-                    "from_smash": true,
-                    "layer": 0,
-                    "origin": "center",
-                    "placement": {
-                        "angle": 0,
-                        "mirror": false,
-                        "shift": [
-                            200000000,
-                            167500000
-                        ]
-                    },
-                    "size": 1500000,
-                    "text": "$REFDES",
-                    "width": 0
-                },
-                "dc691ca4-93cc-46be-844e-809a32b64c5f": {
-                    "font": "simplex",
-                    "from_smash": true,
-                    "layer": 0,
-                    "origin": "center",
-                    "placement": {
-                        "angle": 0,
-                        "mirror": false,
-                        "shift": [
-                            200000000,
-                            102500000
                         ]
                     },
                     "size": 1500000,
