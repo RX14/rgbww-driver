@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "Generic Terminal Block 1x03, 5mm pitch"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "dac08463-17e8-4eb3-b5b4-4d7be5775379",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "95263a1b-cdb8-4708-af86-44615bd698e9",
+    "pad_map": {
+        "2a0c8390-3959-48d1-b638-09c703c16761": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "1803365d-f745-4921-a54f-c5df6afa6561"
+        },
+        "5aa7e340-be49-4b43-b873-9d08845385f5": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "4c0e5d34-b007-432d-880b-3a3b8e963a14"
+        },
+        "7553a195-ecc7-49f2-b159-0d438867366d": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "b22250f7-9956-4ac8-ada1-725b7ba800c8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "generic",
+        "header",
+        "terminal-block"
+    ],
+    "type": "part",
+    "uuid": "2cd39a5d-fabe-4f3a-ba3f-e1645716e2b6",
+    "value": [
+        false,
+        ""
+    ]
+}

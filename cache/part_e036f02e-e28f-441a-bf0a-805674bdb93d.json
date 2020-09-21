@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "CTB5202/3"
+    ],
+    "base": "2cd39a5d-fabe-4f3a-ba3f-e1645716e2b6",
+    "datasheet": [
+        false,
+        "https://www.camdenboss.com/products/datasheet/CTB5202_series_D.pdf"
+    ],
+    "description": [
+        false,
+        "Terminal Block 1x03, 5mm pitch"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "CamdenBoss"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "e036f02e-e28f-441a-bf0a-805674bdb93d",
+    "value": [
+        true,
+        "Generic Terminal Block 1x03, 5mm pitch"
+    ]
+}
