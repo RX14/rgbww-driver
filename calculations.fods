@@ -603,8 +603,8 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ω</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="12500" calcext:value-type="float">
-      <text:p>12500</text:p>
+     <table:table-cell office:value-type="float" office:value="12400" calcext:value-type="float">
+      <text:p>12400</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Ω</text:p>
