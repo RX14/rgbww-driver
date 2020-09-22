@@ -595,7 +595,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>R5</text:p>
+      <text:p>R3</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6" table:formula="of:=([.B10]-(((0.1*[.B9])-0.124)/1.24)-0.1)/0.000018" office:value-type="float" office:value="12544.8028673835" calcext:value-type="float">
       <text:p>12544.80</text:p>
@@ -612,7 +612,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>R6</text:p>
+      <text:p>R4</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce6" table:formula="of:=(1.24*[.B27])/([.B9]-1.24)" office:value-type="float" office:value="749.30421751231" calcext:value-type="float">
       <text:p>749.30</text:p>
