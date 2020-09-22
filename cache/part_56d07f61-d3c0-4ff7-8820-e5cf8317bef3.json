@@ -1,30 +1,35 @@
 {
     "MPN": [
         false,
-        "MCWR 0603 Resistor Base Part"
+        "MCWR06X1242FTL"
     ],
-    "base": "cbeda48c-7fb0-4cfb-a4de-d9672e8cc190",
+    "base": "0ff3c1fd-eb46-4a65-8f6c-6375bfb38de1",
     "datasheet": [
-        false,
+        true,
         "http://www.farnell.com/datasheets/2860681.pdf"
     ],
     "description": [
         false,
-        "Thick Film Chip Resistor"
+        "SMD Resistor Ceramic 12.4 kΩ, 1%, 0.1 W"
     ],
     "inherit_model": true,
     "inherit_tags": true,
     "manufacturer": [
-        false,
+        true,
         "Multicomp Pro"
     ],
     "model": "96c366ee-a963-41a0-9cc8-54c646979695",
-    "parametric": {},
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "12400"
+    },
     "tags": [],
     "type": "part",
-    "uuid": "0ff3c1fd-eb46-4a65-8f6c-6375bfb38de1",
+    "uuid": "56d07f61-d3c0-4ff7-8820-e5cf8317bef3",
     "value": [
         false,
-        ""
+        "12.4 kΩ"
     ]
 }
