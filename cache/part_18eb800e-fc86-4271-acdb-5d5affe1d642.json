@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "MCWR06X2703FTL"
+    ],
+    "base": "0ff3c1fd-eb46-4a65-8f6c-6375bfb38de1",
+    "datasheet": [
+        true,
+        "http://www.farnell.com/datasheets/2860681.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Resistor Ceramic 270 kΩ, 1%, 0.1 W"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Multicomp Pro"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "270000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "18eb800e-fc86-4271-acdb-5d5affe1d642",
+    "value": [
+        false,
+        "270 kΩ"
+    ]
+}
