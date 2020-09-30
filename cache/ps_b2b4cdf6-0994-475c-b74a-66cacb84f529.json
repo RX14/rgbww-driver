@@ -1,0 +1,99 @@
+{
+    "holes": {
+        "5ff506af-55b7-4daf-adfa-3bcf5df7b0d0": {
+            "diameter": 2500000,
+            "length": 500000,
+            "parameter_class": "hole",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            },
+            "plated": false,
+            "shape": "round"
+        }
+    },
+    "name": "Alignment Hole",
+    "padstack_type": "mechanical",
+    "parameter_program": "get-parameter [ hole_diameter ]\ndup\ndup\nset-hole [ hole round ]\nset-shape [ paste circle ]\nget-parameter [ hole_solder_mask_expansion ] 2 *\n+\nset-shape [ mask circle ]",
+    "parameter_set": {
+        "hole_diameter": 2500000,
+        "hole_solder_mask_expansion": 200000
+    },
+    "parameters_required": [
+        "hole_diameter"
+    ],
+    "polygons": {},
+    "shapes": {
+        "49289e75-1e80-4d96-a7f5-3d8e8bfaf460": {
+            "form": "circle",
+            "layer": 10,
+            "parameter_class": "mask",
+            "params": [
+                2900000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "993dd91b-65dd-48c1-9ee9-29651587c057": {
+            "form": "circle",
+            "layer": -130,
+            "parameter_class": "paste",
+            "params": [
+                2500000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "b22a3aaf-5902-48a3-90fa-98a347506c71": {
+            "form": "circle",
+            "layer": -110,
+            "parameter_class": "mask",
+            "params": [
+                2900000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "f93b923a-53ea-40b8-9971-c9d5a877da5d": {
+            "form": "circle",
+            "layer": 30,
+            "parameter_class": "paste",
+            "params": [
+                2500000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "b2b4cdf6-0994-475c-b74a-66cacb84f529",
+    "well_known_name": ""
+}
