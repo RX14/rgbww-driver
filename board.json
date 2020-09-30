@@ -16,59 +16,59 @@
     "connection_lines": {},
     "dimensions": {},
     "fab_output_settings": {
-        "drill_mode": "merged",
-        "drill_npth": "-npth.txt",
-        "drill_pth": ".txt",
+        "drill_mode": "individual",
+        "drill_npth": "-npth.drl",
+        "drill_pth": "-pth.drl",
         "layers": {
             "-100": {
                 "enabled": true,
-                "filename": ".gbl",
+                "filename": "-bot-cu.gbl",
                 "layer": -100
             },
             "-110": {
                 "enabled": true,
-                "filename": ".gbs",
+                "filename": "-bot-mask.gbs",
                 "layer": -110
             },
             "-120": {
                 "enabled": true,
-                "filename": ".gbo",
+                "filename": "-bot-silk.gbo",
                 "layer": -120
             },
             "-130": {
                 "enabled": true,
-                "filename": ".gbp",
+                "filename": "-bot-paste.gbp",
                 "layer": -130
             },
             "0": {
                 "enabled": true,
-                "filename": ".gtl",
+                "filename": "-top-cu.gtl",
                 "layer": 0
             },
             "10": {
                 "enabled": true,
-                "filename": ".gts",
+                "filename": "-top-mask.gts",
                 "layer": 10
             },
             "100": {
                 "enabled": true,
-                "filename": ".gko",
+                "filename": "-outline.gko",
                 "layer": 100
             },
             "20": {
                 "enabled": true,
-                "filename": ".gto",
+                "filename": "-top-silk.gto",
                 "layer": 20
             },
             "30": {
                 "enabled": true,
-                "filename": ".gtp",
+                "filename": "-top-paste.gtp",
                 "layer": 30
             }
         },
-        "output_directory": "",
-        "prefix": "gedsx",
-        "zip_output": false
+        "output_directory": "fab",
+        "prefix": "rgbww",
+        "zip_output": true
     },
     "holes": {
         "9ae4fa38-b5ee-4781-b389-41a311fc396a": {
