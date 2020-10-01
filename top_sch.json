@@ -2886,7 +2886,14 @@
             },
             "lines": {},
             "name": "12V Supply",
-            "net_labels": {},
+            "net_labels": {
+                "8199fd73-c00c-4109-a145-6532c6f93776": {
+                    "junction": "9498b935-ab4f-408f-a1e0-84fd042fb07b",
+                    "offsheet_refs": true,
+                    "orientation": "right",
+                    "size": 1000000
+                }
+            },
             "net_lines": {
                 "04207f8e-ed0c-44b7-9113-9236a7881a2f": {
                     "from": {

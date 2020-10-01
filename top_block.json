@@ -1005,7 +1005,7 @@
         },
         "690425c2-aafe-4a6c-ace5-acaa0b659e7b": {
             "is_power": false,
-            "name": "",
+            "name": "12V_SW",
             "net_class": "12f142b6-b5c5-4bc9-bf01-76f3e3db7a63",
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
