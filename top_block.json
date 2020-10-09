@@ -200,6 +200,24 @@
             "tag": "1024d70c-aca5-4a0c-835e-8106c9c0bb68",
             "value": ""
         },
+        "38beae57-e8ea-47aa-a7da-f9beb9465cc5": {
+            "connections": {
+                "6cbea03f-31ec-49ea-9903-b9bf7b26e340/4c0e5d34-b007-432d-880b-3a3b8e963a14": {
+                    "net": "7df145f2-ec8b-4a6f-bd88-347a37860dda"
+                },
+                "6cbea03f-31ec-49ea-9903-b9bf7b26e340/b22250f7-9956-4ac8-ada1-725b7ba800c8": {
+                    "net": "f6a26abc-ec07-4296-993e-257f2ed11b93"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "dac08463-17e8-4eb3-b5b4-4d7be5775379",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "e036f02e-e28f-441a-bf0a-805674bdb93d",
+            "pin_names": {},
+            "refdes": "J3",
+            "tag": "baab0625-f7da-4cc3-8baf-c3baf1d7d247",
+            "value": ""
+        },
         "3a80e3ad-492c-45d3-9af6-a0d1e08fb1b9": {
             "connections": {
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {

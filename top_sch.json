@@ -58,6 +58,12 @@
                         61250000
                     ]
                 },
+                "0d81d2c1-625b-48a0-83e8-df4e342db1ba": {
+                    "position": [
+                        22500000,
+                        153750000
+                    ]
+                },
                 "0f355728-d7ac-4ec3-8a3a-dc00733d9f9f": {
                     "position": [
                         193750000,
@@ -392,6 +398,12 @@
                     "position": [
                         47500000,
                         78750000
+                    ]
+                },
+                "fa07dfdd-1da3-45d8-a332-208505c7ca27": {
+                    "position": [
+                        22500000,
+                        146250000
                     ]
                 },
                 "fea26673-f075-4c9f-afb4-d007995e17c7": {
@@ -974,6 +986,18 @@
                         "bus_ripper": null,
                         "junc": null,
                         "pin": "5801d3b4-c677-4f14-a306-74bef8df0819/6a44037c-65e2-4876-9359-42890048841d"
+                    }
+                },
+                "4e547102-8367-43e2-86df-f368238c816f": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "c6d6199d-e7ab-4811-87af-2d467c035e0b/b22250f7-9956-4ac8-ada1-725b7ba800c8"
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": "0d81d2c1-625b-48a0-83e8-df4e342db1ba",
+                        "pin": null
                     }
                 },
                 "569a9302-2c9c-4f70-bd27-59f47678611e": {
@@ -1804,6 +1828,18 @@
                         "pin": null
                     }
                 },
+                "ef0fb8aa-1b47-4458-9d4b-d07bf2c7b793": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "c6d6199d-e7ab-4811-87af-2d467c035e0b/4c0e5d34-b007-432d-880b-3a3b8e963a14"
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": "fa07dfdd-1da3-45d8-a332-208505c7ca27",
+                        "pin": null
+                    }
+                },
                 "ef3939c7-4822-45a4-b778-97ec2b25be05": {
                     "from": {
                         "bus_ripper": null,
@@ -1938,11 +1974,23 @@
                     "net": "7df145f2-ec8b-4a6f-bd88-347a37860dda",
                     "orientation": "down"
                 },
+                "b42226cf-4e3c-49f9-8b6a-e6cc43d9d620": {
+                    "junction": "fa07dfdd-1da3-45d8-a332-208505c7ca27",
+                    "mirror": false,
+                    "net": "7df145f2-ec8b-4a6f-bd88-347a37860dda",
+                    "orientation": "down"
+                },
                 "b50aaad5-52e1-490b-9bb9-f617189cc754": {
                     "junction": "0b2d7a71-48e3-4b2f-8092-9163cb308d0a",
                     "mirror": false,
                     "net": "7df145f2-ec8b-4a6f-bd88-347a37860dda",
                     "orientation": "down"
+                },
+                "b5987f92-8fa4-44cf-9935-91eef02a764a": {
+                    "junction": "0d81d2c1-625b-48a0-83e8-df4e342db1ba",
+                    "mirror": true,
+                    "net": "f6a26abc-ec07-4296-993e-257f2ed11b93",
+                    "orientation": "up"
                 },
                 "e6dc866d-31da-4b61-940a-ed9174d08833": {
                     "junction": "2a412cc0-08b1-4142-b593-746e195cbac5",
@@ -2575,6 +2623,28 @@
                     "symbol": "1f176305-dbe6-4349-a3c0-fe0927faaec4",
                     "texts": []
                 },
+                "c6d6199d-e7ab-4811-87af-2d467c035e0b": {
+                    "component": "38beae57-e8ea-47aa-a7da-f9beb9465cc5",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            16250000,
+                            150000000
+                        ]
+                    },
+                    "smashed": true,
+                    "symbol": "c06dffb6-8721-4b8e-a056-210974def620",
+                    "texts": [
+                        "46ab0a25-8324-445b-b263-87e9f3222a54",
+                        "897c7ca1-f00c-4839-bd30-9565ef8bc60b"
+                    ]
+                },
                 "cc078d30-7877-443d-a9e6-70c85f5f3776": {
                     "component": "c5ff90c6-d822-4049-8223-dcdf9ac5b63b",
                     "display_all_pads": false,
@@ -2687,6 +2757,40 @@
                     },
                     "size": 1500000,
                     "text": "$VALUE",
+                    "width": 0
+                },
+                "46ab0a25-8324-445b-b263-87e9f3222a54": {
+                    "font": "simplex",
+                    "from_smash": true,
+                    "layer": 0,
+                    "origin": "center",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            7500000,
+                            143750000
+                        ]
+                    },
+                    "size": 1500000,
+                    "text": "$VALUE",
+                    "width": 0
+                },
+                "897c7ca1-f00c-4839-bd30-9565ef8bc60b": {
+                    "font": "simplex",
+                    "from_smash": true,
+                    "layer": 0,
+                    "origin": "center",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            12500000,
+                            156250000
+                        ]
+                    },
+                    "size": 1500000,
+                    "text": "$REFDES",
                     "width": 0
                 },
                 "dd592a22-c98a-497c-a64f-083a407c74f8": {
