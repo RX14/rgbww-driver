@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "GRM188R60J226MEA0x"
+    ],
+    "base": "cab72b27-6d92-47d2-9694-d5f2b4b74d91",
+    "datasheet": [
+        true,
+        "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor 22 µF, 6.3V, X5R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Murata"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "5641e6a5-ba50-4e96-accc-54d74daba69a": "GRM188R60J226MEA0D"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X5R",
+        "value": "2.2e-05",
+        "wvdc": "6.3"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "0d34ce76-651f-46a6-8c2f-3b5e6c456854",
+    "value": [
+        false,
+        "22 µF"
+    ]
+}

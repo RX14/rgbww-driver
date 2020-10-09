@@ -1,0 +1,164 @@
+{
+    "MPN": [
+        false,
+        "ESP32-WROOM-32E"
+    ],
+    "datasheet": [
+        false,
+        "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf"
+    ],
+    "description": [
+        false,
+        "ESP32 integrated module with antenna"
+    ],
+    "entity": "40f37ac6-be5b-4584-8508-471252d9efd7",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Espressif"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "e6d3f20b-1e63-4c3c-ae8e-7afc78f65053",
+    "pad_map": {
+        "00728bfa-6b5f-4095-b7ca-176e645c4259": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "fad896c9-da74-4bfc-9ca9-03bf0e043142"
+        },
+        "0087ce46-dd0f-468f-9133-5783e8f4d3a0": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "dae3ebc7-5e5b-4637-8ab5-fc56de3cdfdd"
+        },
+        "09baa533-4a21-457c-9ac2-91c0187520ab": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "dc188eae-1843-4523-84b2-c51b5f711abf"
+        },
+        "0dc4e6d0-a8d0-4d82-b723-f91445ad1288": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "8875aa67-0796-45f8-a4e2-a571f2816c46"
+        },
+        "21914693-854e-4d9f-868c-d5925310c0f2": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "46ff064a-0fcc-44c8-ae87-2d563dcdda36"
+        },
+        "3f9de5a6-9c6e-4e14-aaea-ed7d338466c3": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "1195012c-f1a2-467a-84d4-ac7d69b96d91"
+        },
+        "4704860c-9374-429a-a3ad-c9311d8581a1": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "d7b8ff60-7272-47db-a687-9e4d3a4c06a5"
+        },
+        "50ee66d1-dd67-4e15-a011-af1eeb9a8057": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "ce4440c2-95fe-4b84-9880-33d6f86a3741"
+        },
+        "59a8f592-ca12-45d6-abcc-0afd471e5eef": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "2d065344-3f90-4019-89d1-0e1f520b42fe"
+        },
+        "5d44edeb-ba31-4a44-b00b-d78ef9aa82c3": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "dc188eae-1843-4523-84b2-c51b5f711abf"
+        },
+        "6464cc1b-7005-42cd-9e64-ca90c89407e2": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "6ab84d89-9d32-4655-9da1-768fcf4c53c1"
+        },
+        "6571c7ef-c024-455b-a982-1f9ca7a77b29": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "bff5e0e7-91ab-4ed7-a6cd-2b0f438e4713"
+        },
+        "711a285a-7b5a-458a-82ce-ee3ff6aa2e81": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "44b76f1e-f35c-4c69-87b9-52d844414ea4"
+        },
+        "763e8831-ef54-4947-bbe6-49876d29ab2a": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "319b09d6-518f-473a-b4ff-6a5d9e0ad6fe"
+        },
+        "769936a6-014a-4d70-a569-2fa113e391ad": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "b863a572-a6e1-4c1a-9527-aff29f1800bb"
+        },
+        "7bb22990-c01f-47b1-8af0-03c5dea56d24": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "33a16ec9-9e36-489a-b990-61116c1ca99c"
+        },
+        "802bd6b6-d6de-412f-8b47-af2309f0701a": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "7e04f1bb-be9c-4f32-8f3c-8801016944f4"
+        },
+        "9e331d0b-2d16-4c50-8535-c0909247617f": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "5a451ccb-a5fc-49c5-be05-b95f5c82fa26"
+        },
+        "a51ef160-92cc-4eec-ba15-40d0db2088d3": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "e12a9fd0-b146-4453-953f-ef01a8cbafeb"
+        },
+        "b2d38b6a-edec-4d87-a542-b27acbb5ec2d": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "7fd36035-d28a-41be-b864-f8edcf603d91"
+        },
+        "b48652f4-f905-408d-a65c-c4de6e0266e3": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "72aaf8c2-991b-4ae2-9ad0-0f3ac8b57257"
+        },
+        "ba7e9030-2501-433c-b2fc-eaf6a55b28af": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "3162bded-2985-458e-bc7f-6a9ada7b5b3a"
+        },
+        "c332f715-b61c-4837-8f2a-0b025084e031": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "a07c0fa3-909b-435a-9d28-61e5e6e126ac"
+        },
+        "c659a863-bde4-415d-bfcf-df80120c9266": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "dc188eae-1843-4523-84b2-c51b5f711abf"
+        },
+        "cc891697-cdd8-4af1-9978-4abf9743bdb0": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "f44832da-3fa7-4c61-9ff5-e8ccf791a9ad"
+        },
+        "d15c3246-d373-4e66-9b46-a6b54108a6ef": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "60a0a0a1-e024-4ace-a6b5-83ab09ede59c"
+        },
+        "d2ea7272-e31d-44f0-9675-8d0caa419e56": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "7a9c9b25-b0b1-4c09-9fe4-392654f9ea69"
+        },
+        "d560f7c5-22f5-42e4-8a79-84dd5afe079e": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "d1605481-9e8a-4c7c-a22b-973d26efb2af"
+        },
+        "d6dd3634-173d-45ca-b198-57b52f5c97bd": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "245a07b5-21a8-4ffd-92d7-0bc3c5404421"
+        },
+        "d8084ab7-981d-403b-bdf3-aa617739c91c": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "cb46210a-ae7f-45bb-8ddf-f6f7f2f66ceb"
+        },
+        "f5a89c80-af5c-4616-a224-396f2c13f61c": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "dc188eae-1843-4523-84b2-c51b5f711abf"
+        },
+        "f707ebfc-1c06-4546-9c3a-ef3d3d81ba4b": {
+            "gate": "e32af06d-b9e4-4f78-a70b-3384cc7120fe",
+            "pin": "01fb3f05-2f78-4b54-9034-e4a78ffb97db"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "mcu"
+    ],
+    "type": "part",
+    "uuid": "7d29768b-9ca3-4788-a011-ef04c6dbaf2f",
+    "value": [
+        false,
+        ""
+    ]
+}

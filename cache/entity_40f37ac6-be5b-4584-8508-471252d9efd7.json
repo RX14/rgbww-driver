@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "e32af06d-b9e4-4f78-a70b-3384cc7120fe": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c1439986-63ef-4bbc-a633-1c2459665b00"
+        }
+    },
+    "manufacturer": "Espressif",
+    "name": "ESP32-WROOM-32E",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "mcu"
+    ],
+    "type": "entity",
+    "uuid": "40f37ac6-be5b-4584-8508-471252d9efd7"
+}
