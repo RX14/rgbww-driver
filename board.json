@@ -645,12 +645,6 @@
                 -250000
             ]
         },
-        "8e4879f5-d08e-4936-b1cd-cf5296822ea4": {
-            "position": [
-                -7902000,
-                3577000
-            ]
-        },
         "8fcc58fd-538b-46c7-82ea-3e9f8b277ec1": {
             "position": [
                 -9750000,
@@ -22041,20 +22035,6 @@
             "width": 200000,
             "width_from_net_class": true
         },
-        "09e9ae03-79bb-435f-94e3-e5c4e207dfb1": {
-            "from": {
-                "junc": "8e4879f5-d08e-4936-b1cd-cf5296822ea4",
-                "pad": null
-            },
-            "layer": 0,
-            "locked": false,
-            "to": {
-                "junc": null,
-                "pad": "0aac1103-ada6-4232-a424-b93553bcccce/54963480-88b2-480e-949e-759a13c87bec"
-            },
-            "width": 500000,
-            "width_from_net_class": false
-        },
         "0a34b6c0-9aac-4c85-bc65-c8b4b7136669": {
             "from": {
                 "junc": "619e922f-c9cf-481f-b462-6f5f1c3a8a24",
@@ -22288,20 +22268,6 @@
             "locked": false,
             "to": {
                 "junc": "adaca558-f63b-4504-8bbf-dcebae90a01e",
-                "pad": null
-            },
-            "width": 500000,
-            "width_from_net_class": false
-        },
-        "2f4b8847-d917-4247-8026-7f423f46cbde": {
-            "from": {
-                "junc": "54a34cda-ad0f-43a9-b261-65b2f935d982",
-                "pad": null
-            },
-            "layer": 0,
-            "locked": false,
-            "to": {
-                "junc": "8e4879f5-d08e-4936-b1cd-cf5296822ea4",
                 "pad": null
             },
             "width": 500000,
@@ -22768,6 +22734,20 @@
             },
             "width": 200000,
             "width_from_net_class": true
+        },
+        "927de2d4-60e9-425e-b985-1863d828bf5a": {
+            "from": {
+                "junc": null,
+                "pad": "0aac1103-ada6-4232-a424-b93553bcccce/54963480-88b2-480e-949e-759a13c87bec"
+            },
+            "layer": 0,
+            "locked": false,
+            "to": {
+                "junc": "54a34cda-ad0f-43a9-b261-65b2f935d982",
+                "pad": null
+            },
+            "width": 450000,
+            "width_from_net_class": false
         },
         "931c60a8-88b0-4d27-b4d6-af83a42a9a65": {
             "from": {
