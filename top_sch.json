@@ -3555,6 +3555,23 @@
                     "text": "$REFDES",
                     "width": 0
                 },
+                "7927f3c6-26c9-4963-80c9-75b86858f8a7": {
+                    "font": "simplex",
+                    "from_smash": false,
+                    "layer": 0,
+                    "origin": "center",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            196250000,
+                            171250000
+                        ]
+                    },
+                    "size": 1500000,
+                    "text": "Add caps to LDO",
+                    "width": 0
+                },
                 "897c7ca1-f00c-4839-bd30-9565ef8bc60b": {
                     "font": "simplex",
                     "from_smash": true,
