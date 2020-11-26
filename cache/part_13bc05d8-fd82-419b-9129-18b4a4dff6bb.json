@@ -1,35 +1,35 @@
 {
     "MPN": [
         false,
-        "MCWR06X30R0FTL"
+        "RC0603FR-07140KL"
     ],
-    "base": "0ff3c1fd-eb46-4a65-8f6c-6375bfb38de1",
+    "base": "f09213fb-baf4-4285-ab94-46fe3ca9ec7a",
     "datasheet": [
         true,
-        "http://www.farnell.com/datasheets/2860681.pdf"
+        ""
     ],
     "description": [
         false,
-        "SMD Resistor Ceramic 30 Ω, 1%, 0.1 W"
+        "General Purpose Chip resistor 140 kΩ, 1%, 0.1 W"
     ],
     "inherit_model": true,
     "inherit_tags": true,
     "manufacturer": [
-        true,
-        "Multicomp Pro"
+        false,
+        "Yageo"
     ],
     "model": "96c366ee-a963-41a0-9cc8-54c646979695",
     "parametric": {
         "pmax": "0.1",
         "table": "resistors",
         "tolerance": "1",
-        "value": "30"
+        "value": "140000"
     },
     "tags": [],
     "type": "part",
-    "uuid": "d3bde295-e76a-4b93-a08c-68bb5ae62f1f",
+    "uuid": "13bc05d8-fd82-419b-9129-18b4a4dff6bb",
     "value": [
         false,
-        "30 Ω"
+        "140 kΩ"
     ]
 }

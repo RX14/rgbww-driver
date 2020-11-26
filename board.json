@@ -1935,6 +1935,7 @@
         }
     },
     "pdf_export_settings": {
+        "holes_diameter": 0,
         "layers": {
             "-100": {
                 "color": {
@@ -2017,6 +2018,15 @@
                 "enabled": true,
                 "mode": "outline"
             },
+            "10000": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
             "110": {
                 "color": {
                     "b": 0.0,
@@ -2066,7 +2076,8 @@
         "min_line_width": 0,
         "mirror": false,
         "output_filename": "",
-        "reverse_layers": false
+        "reverse_layers": false,
+        "set_holes_size": false
     },
     "planes": {
         "0932e2d3-de5a-44f7-abea-1b4332695bc9": {
@@ -15167,8 +15178,8 @@
                                 4016056
                             ],
                             [
-                                -1297926,
-                                4031011
+                                -1297925,
+                                4031012
                             ],
                             [
                                 -1272729,
@@ -15727,75 +15738,23 @@
                                 4060469
                             ],
                             [
-                                -8727272,
-                                4047848
+                                -8727271,
+                                4047847
                             ],
                             [
-                                -8726721,
-                                4047480
+                                -8702089,
+                                4031021
                             ],
                             [
-                                -8726594,
-                                4047441
+                                -8693536,
+                                4024678
                             ],
                             [
-                                -8725173,
-                                4046590
+                                -8657490,
+                                4007806
                             ],
                             [
-                                -8724959,
-                                4046947
-                            ],
-                            [
-                                -8670992,
-                                4030631
-                            ],
-                            [
-                                -7905281,
-                                4031995
-                            ],
-                            [
-                                -7879212,
-                                4030746
-                            ],
-                            [
-                                -7858532,
-                                4028709
-                            ],
-                            [
-                                -7858357,
-                                4028692
-                            ],
-                            [
-                                -7837976,
-                                4026721
-                            ],
-                            [
-                                -7815443,
-                                4022221
-                            ],
-                            [
-                                -7815110,
-                                4022155
-                            ],
-                            [
-                                -7789902,
-                                4017210
-                            ],
-                            [
-                                -7771213,
-                                4011540
-                            ],
-                            [
-                                -7771039,
-                                4011487
-                            ],
-                            [
-                                -7763630,
-                                4009254
-                            ],
-                            [
-                                -7734773,
+                                -8633967,
                                 4005000
                             ],
                             [
@@ -22371,20 +22330,6 @@
             "width": 200000,
             "width_from_net_class": true
         },
-        "3cb29e10-81c0-4472-bdc9-3cdde98e0ebf": {
-            "from": {
-                "junc": null,
-                "pad": "fed83312-56d5-4fe3-b77c-ebfc98ff309a/dbd0c5ca-3d47-4dc1-9012-bed19d601c53"
-            },
-            "layer": -100,
-            "locked": false,
-            "to": {
-                "junc": "f5239609-43b6-459f-a792-0219688169b8",
-                "pad": null
-            },
-            "width": 200000,
-            "width_from_net_class": true
-        },
         "3e7ee963-a18b-45a5-9e76-670809d8e1b0": {
             "from": {
                 "junc": "dd75536b-c168-4702-a763-8f082528bd34",
@@ -22777,20 +22722,6 @@
             "width": 200000,
             "width_from_net_class": true
         },
-        "9c3cd959-a540-48b8-aea1-62c9fb1b805e": {
-            "from": {
-                "junc": "e1104125-2db1-40fb-a355-53968f01c56f",
-                "pad": null
-            },
-            "layer": -100,
-            "locked": false,
-            "to": {
-                "junc": null,
-                "pad": "0043cf95-662e-4449-aee0-81c21b2d4b8a/af633f04-39de-4605-b33a-2010e8795070"
-            },
-            "width": 200000,
-            "width_from_net_class": true
-        },
         "9e602812-66a1-44b2-bb96-58485a8f7ad1": {
             "from": {
                 "junc": "357e3bf7-9415-4ab1-a847-6dea00c5efca",
@@ -22818,20 +22749,6 @@
             },
             "width": 200000,
             "width_from_net_class": false
-        },
-        "a4cec8af-a08a-4f52-9a9e-3cd4648411ef": {
-            "from": {
-                "junc": null,
-                "pad": "67ea6179-e426-464c-8f37-f2c48bc8cfed/dbd0c5ca-3d47-4dc1-9012-bed19d601c53"
-            },
-            "layer": -100,
-            "locked": false,
-            "to": {
-                "junc": "1fb4d64d-e7ef-4ac1-a3b6-769691ce28d6",
-                "pad": null
-            },
-            "width": 200000,
-            "width_from_net_class": true
         },
         "aa0b7983-73f0-4fac-913e-a34f956774f9": {
             "from": {
@@ -22987,6 +22904,20 @@
             "width": 200000,
             "width_from_net_class": true
         },
+        "c1b97c4c-50c3-4866-b4a0-e58b68e25461": {
+            "from": {
+                "junc": "1fb4d64d-e7ef-4ac1-a3b6-769691ce28d6",
+                "pad": null
+            },
+            "layer": -100,
+            "locked": false,
+            "to": {
+                "junc": null,
+                "pad": "67ea6179-e426-464c-8f37-f2c48bc8cfed/dbd0c5ca-3d47-4dc1-9012-bed19d601c53"
+            },
+            "width": 200000,
+            "width_from_net_class": true
+        },
         "c2ffc036-1d85-4212-8bce-0700b9576acc": {
             "from": {
                 "junc": "27f53e72-678f-4cd4-870e-5c586697319a",
@@ -23056,6 +22987,20 @@
             },
             "width": 200000,
             "width_from_net_class": false
+        },
+        "d8341871-0019-45fa-acea-1a58a202a07f": {
+            "from": {
+                "junc": "f5239609-43b6-459f-a792-0219688169b8",
+                "pad": null
+            },
+            "layer": -100,
+            "locked": false,
+            "to": {
+                "junc": null,
+                "pad": "fed83312-56d5-4fe3-b77c-ebfc98ff309a/dbd0c5ca-3d47-4dc1-9012-bed19d601c53"
+            },
+            "width": 200000,
+            "width_from_net_class": true
         },
         "e57a3c9e-8c75-453f-8f41-60f5140d2560": {
             "from": {
@@ -23158,6 +23103,7 @@
     },
     "type": "board",
     "uuid": "5ff1952f-4801-4dfb-9e99-33f54edba02d",
+    "version": 1,
     "vias": {
         "01a62e12-20f5-4519-82c6-4ca388a75ec7": {
             "from_rules": true,

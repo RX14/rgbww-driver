@@ -1,35 +1,35 @@
 {
     "MPN": [
         false,
-        "MCWR06X2703FTL"
+        "RC0603FR-07750RL"
     ],
-    "base": "0ff3c1fd-eb46-4a65-8f6c-6375bfb38de1",
+    "base": "f09213fb-baf4-4285-ab94-46fe3ca9ec7a",
     "datasheet": [
         true,
-        "http://www.farnell.com/datasheets/2860681.pdf"
+        "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"
     ],
     "description": [
         false,
-        "SMD Resistor Ceramic 270 kΩ, 1%, 0.1 W"
+        "General Purpose Chip resistor 750 Ω, 1%, 0.1 W"
     ],
     "inherit_model": true,
     "inherit_tags": true,
     "manufacturer": [
         true,
-        "Multicomp Pro"
+        "Yageo"
     ],
     "model": "96c366ee-a963-41a0-9cc8-54c646979695",
     "parametric": {
         "pmax": "0.1",
         "table": "resistors",
         "tolerance": "1",
-        "value": "270000"
+        "value": "750"
     },
     "tags": [],
     "type": "part",
-    "uuid": "18eb800e-fc86-4271-acdb-5d5affe1d642",
+    "uuid": "3fe45f20-fc33-4caf-beed-472cfd7c0029",
     "value": [
         false,
-        "270 kΩ"
+        "750 Ω"
     ]
 }

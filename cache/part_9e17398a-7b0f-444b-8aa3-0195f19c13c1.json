@@ -1,35 +1,35 @@
 {
     "MPN": [
         false,
-        "MCWR06X2402FTL"
+        "RC0603FR-0715K4L"
     ],
-    "base": "0ff3c1fd-eb46-4a65-8f6c-6375bfb38de1",
+    "base": "f09213fb-baf4-4285-ab94-46fe3ca9ec7a",
     "datasheet": [
         true,
-        "http://www.farnell.com/datasheets/2860681.pdf"
+        "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"
     ],
     "description": [
         false,
-        "SMD Resistor Ceramic 24 kΩ, 1%, 0.1 W"
+        "General Purpose Chip resistor 15.4 kΩ, 1%, 0.1 W"
     ],
     "inherit_model": true,
     "inherit_tags": true,
     "manufacturer": [
         true,
-        "Multicomp Pro"
+        "Yageo"
     ],
     "model": "96c366ee-a963-41a0-9cc8-54c646979695",
     "parametric": {
         "pmax": "0.1",
         "table": "resistors",
         "tolerance": "1",
-        "value": "24000"
+        "value": "15400"
     },
     "tags": [],
     "type": "part",
-    "uuid": "6a8b4e35-4254-4833-815d-df0b1f169b56",
+    "uuid": "9e17398a-7b0f-444b-8aa3-0195f19c13c1",
     "value": [
         false,
-        "24 kΩ"
+        "15.4 kΩ"
     ]
 }

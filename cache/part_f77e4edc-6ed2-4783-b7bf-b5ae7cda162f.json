@@ -1,22 +1,22 @@
 {
     "MPN": [
         false,
-        "HTA5L45"
+        "MSK340A"
     ],
     "base": "0e81f317-57f0-4395-a97b-6342441cee5b",
     "datasheet": [
         false,
-        "http://www.farnell.com/datasheets/2864105.pdf"
+        "https://api.shikues.com/pdf/MSK340A.pdf"
     ],
     "description": [
         false,
-        "Surface Mount Schottky Power Rectifier, 45V, 5A, 490mV"
+        "Surface Mount Schottky Power Rectifier, 45V, 5A, 460mV"
     ],
     "inherit_model": true,
     "inherit_tags": true,
     "manufacturer": [
         false,
-        "Multicomp Pro"
+        "Shikues"
     ],
     "model": "9191c081-b934-4c52-be70-c15d3f276956",
     "parametric": {},
