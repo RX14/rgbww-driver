@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "8a20f1eb-cce4-4091-8dc4-471d00c676e1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d0561b9c-ba0c-4a20-a689-b97b81b7f4d6"
+        }
+    },
+    "manufacturer": "",
+    "name": "Debug Edge Connector",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "debug"
+    ],
+    "type": "entity",
+    "uuid": "649c7046-2d61-4347-bd71-429975f06432"
+}

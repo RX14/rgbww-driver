@@ -1,0 +1,78 @@
+{
+    "manufacturer": "",
+    "name": "Debug Edge Connector",
+    "pins": {
+        "27ae72bb-66f4-4ba5-b579-11dc63942430": {
+            "direction": "output",
+            "names": [
+                "TRACE0"
+            ],
+            "primary_name": "RX",
+            "swap_group": 0
+        },
+        "36a75919-4258-415a-a4e5-c7e41b1bba3a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TDI",
+            "swap_group": 0
+        },
+        "381564c3-ee8c-4fa0-afa9-39ba9a85b655": {
+            "direction": "output",
+            "names": [
+                "SWCLK"
+            ],
+            "primary_name": "TCK",
+            "swap_group": 0
+        },
+        "3a4e5501-6193-403a-9a22-283bcb3f7085": {
+            "direction": "bidirectional",
+            "names": [
+                "SWDIO"
+            ],
+            "primary_name": "TMS",
+            "swap_group": 0
+        },
+        "90af2be8-0924-4c71-a885-ef6e202b4b74": {
+            "direction": "input",
+            "names": [
+                "TRACE_CLK"
+            ],
+            "primary_name": "TX",
+            "swap_group": 0
+        },
+        "aa0877e2-65a0-4b32-af90-deaf1ce9b20f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VREF",
+            "swap_group": 0
+        },
+        "ad529590-fdfb-4c56-971d-f448b3b7ed90": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "b66b196d-8634-4003-8a4c-d8f17f419245": {
+            "direction": "input",
+            "names": [
+                "SWO"
+            ],
+            "primary_name": "TDO",
+            "swap_group": 0
+        },
+        "e200227d-9d6a-4a1c-ace0-046b9926cd99": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "nRESET",
+            "swap_group": 0
+        },
+        "f544e21a-533b-4adf-8231-f8dab575daa0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TRACE1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d0561b9c-ba0c-4a20-a689-b97b81b7f4d6"
+}

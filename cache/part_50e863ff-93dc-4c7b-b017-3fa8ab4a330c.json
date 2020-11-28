@@ -1,0 +1,76 @@
+{
+    "MPN": [
+        false,
+        "Debug Edge Connector"
+    ],
+    "datasheet": [
+        false,
+        "https://debug-edge.io/"
+    ],
+    "description": [
+        false,
+        "Edge connector for debugging"
+    ],
+    "entity": "649c7046-2d61-4347-bd71-429975f06432",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "b9fda62f-8930-4666-8e32-344591ea367e",
+    "pad_map": {
+        "222ed7ce-cedd-43ed-b434-c70d76fa6306": {
+            "gate": "8a20f1eb-cce4-4091-8dc4-471d00c676e1",
+            "pin": "ad529590-fdfb-4c56-971d-f448b3b7ed90"
+        },
+        "4496cfba-7f50-4189-be67-05fee8214da6": {
+            "gate": "8a20f1eb-cce4-4091-8dc4-471d00c676e1",
+            "pin": "e200227d-9d6a-4a1c-ace0-046b9926cd99"
+        },
+        "4b8fdaa2-cae2-48e2-b984-29e54f822393": {
+            "gate": "8a20f1eb-cce4-4091-8dc4-471d00c676e1",
+            "pin": "aa0877e2-65a0-4b32-af90-deaf1ce9b20f"
+        },
+        "4f9d717c-df62-4579-aeb2-888924a1dfc0": {
+            "gate": "8a20f1eb-cce4-4091-8dc4-471d00c676e1",
+            "pin": "27ae72bb-66f4-4ba5-b579-11dc63942430"
+        },
+        "50e8d19c-5a92-49b4-8600-bb9e3ee9039d": {
+            "gate": "8a20f1eb-cce4-4091-8dc4-471d00c676e1",
+            "pin": "381564c3-ee8c-4fa0-afa9-39ba9a85b655"
+        },
+        "71153ce6-2993-41e7-8681-d27e60462352": {
+            "gate": "8a20f1eb-cce4-4091-8dc4-471d00c676e1",
+            "pin": "90af2be8-0924-4c71-a885-ef6e202b4b74"
+        },
+        "832b810f-3baa-4a29-a1ff-54757d314c03": {
+            "gate": "8a20f1eb-cce4-4091-8dc4-471d00c676e1",
+            "pin": "3a4e5501-6193-403a-9a22-283bcb3f7085"
+        },
+        "84bf8a39-2c54-4b20-9722-6b3eebc7baf5": {
+            "gate": "8a20f1eb-cce4-4091-8dc4-471d00c676e1",
+            "pin": "36a75919-4258-415a-a4e5-c7e41b1bba3a"
+        },
+        "a94dc819-b5fc-4ca0-8b23-fb8a161bb5e2": {
+            "gate": "8a20f1eb-cce4-4091-8dc4-471d00c676e1",
+            "pin": "b66b196d-8634-4003-8a4c-d8f17f419245"
+        },
+        "beb1a9d3-ae77-4bc7-9713-4308ca76f223": {
+            "gate": "8a20f1eb-cce4-4091-8dc4-471d00c676e1",
+            "pin": "f544e21a-533b-4adf-8231-f8dab575daa0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "debug"
+    ],
+    "type": "part",
+    "uuid": "50e863ff-93dc-4c7b-b017-3fa8ab4a330c",
+    "value": [
+        false,
+        ""
+    ]
+}
