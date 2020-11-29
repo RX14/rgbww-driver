@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "CAT809xTB"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pub/Collateral/CAT809-D.PDF"
+    ],
+    "description": [
+        false,
+        "Voltage Supervisor, Push-Pull, Active Low"
+    ],
+    "entity": "98808cec-831d-4b77-9ed4-0c4e8b3f36fe",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "568c8b4c-34d4-4290-a4ac-7d8f5024d86a",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "17d66f0e-510a-4422-8e09-96c69babf035",
+            "pin": "2dd6de79-3465-4744-8255-d944d1e24dc6"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "17d66f0e-510a-4422-8e09-96c69babf035",
+            "pin": "555bb0d9-6029-4ded-811f-a4b19982daa6"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "17d66f0e-510a-4422-8e09-96c69babf035",
+            "pin": "e73c08cc-b3a2-4595-a477-752b2cda84a9"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "supervisor"
+    ],
+    "type": "part",
+    "uuid": "c47c6b53-1dd8-416c-86b5-d89ad6ab5102",
+    "value": [
+        false,
+        ""
+    ]
+}

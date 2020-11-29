@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "17d66f0e-510a-4422-8e09-96c69babf035": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2b9481ce-9ebb-4152-965d-2df42fdd876a"
+        }
+    },
+    "manufacturer": "ON Semiconductor",
+    "name": "Voltage Supervisor with active-low output",
+    "prefix": "U",
+    "tags": [
+        "supervisor"
+    ],
+    "type": "entity",
+    "uuid": "98808cec-831d-4b77-9ed4-0c4e8b3f36fe"
+}

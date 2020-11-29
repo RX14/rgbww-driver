@@ -1,0 +1,26 @@
+{
+    "manufacturer": "ON Semiconductor",
+    "name": "Voltage Supervisor with active-low output",
+    "pins": {
+        "2dd6de79-3465-4744-8255-d944d1e24dc6": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "~RESET",
+            "swap_group": 0
+        },
+        "555bb0d9-6029-4ded-811f-a4b19982daa6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e73c08cc-b3a2-4595-a477-752b2cda84a9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2b9481ce-9ebb-4152-965d-2df42fdd876a"
+}

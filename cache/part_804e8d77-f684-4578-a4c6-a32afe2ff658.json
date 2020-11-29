@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "CAT809RTBI"
+    ],
+    "base": "c47c6b53-1dd8-416c-86b5-d89ad6ab5102",
+    "datasheet": [
+        true,
+        "https://www.onsemi.com/pub/Collateral/CAT809-D.PDF"
+    ],
+    "description": [
+        false,
+        "Voltage Supervisor 2.63V, Push-Pull, Active Low"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "6930507f-335c-4154-af95-e4a32a310710": "CAT809RTBI-GT3",
+        "6d8d75a2-1de6-42af-b27d-0bad08244df2": "CAT809RTBI-T3"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "804e8d77-f684-4578-a4c6-a32afe2ff658",
+    "value": [
+        true,
+        "CAT809xTB"
+    ]
+}

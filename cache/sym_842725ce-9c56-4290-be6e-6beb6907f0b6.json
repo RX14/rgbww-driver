@@ -1,0 +1,151 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "08ab012e-5bc8-40f0-9358-3bec2f70bd66": {
+            "position": [
+                10000000,
+                6250000
+            ]
+        },
+        "090ae1de-d2de-4f06-bfe8-70c21a44ab59": {
+            "position": [
+                10000000,
+                -6250000
+            ]
+        },
+        "1db602bd-a6a8-4dd5-adec-6475cef6d3b3": {
+            "position": [
+                -10000000,
+                6250000
+            ]
+        },
+        "76b9f1b3-0361-425e-a451-e43aea953b8b": {
+            "position": [
+                -10000000,
+                -6250000
+            ]
+        }
+    },
+    "lines": {
+        "3dae8e53-18be-41e8-bb02-05bfe4109673": {
+            "from": "08ab012e-5bc8-40f0-9358-3bec2f70bd66",
+            "layer": 0,
+            "to": "090ae1de-d2de-4f06-bfe8-70c21a44ab59",
+            "width": 100000
+        },
+        "bb4dad5f-bed9-4f91-8283-4fde0cd01376": {
+            "from": "1db602bd-a6a8-4dd5-adec-6475cef6d3b3",
+            "layer": 0,
+            "to": "08ab012e-5bc8-40f0-9358-3bec2f70bd66",
+            "width": 100000
+        },
+        "c93ce220-fd75-4bfa-9575-c5dd687813d8": {
+            "from": "76b9f1b3-0361-425e-a451-e43aea953b8b",
+            "layer": 0,
+            "to": "1db602bd-a6a8-4dd5-adec-6475cef6d3b3",
+            "width": 100000
+        },
+        "deae560a-e151-4ce4-a2b2-47a786e60852": {
+            "from": "090ae1de-d2de-4f06-bfe8-70c21a44ab59",
+            "layer": 0,
+            "to": "76b9f1b3-0361-425e-a451-e43aea953b8b",
+            "width": 100000
+        }
+    },
+    "name": "Voltage Supervisor with active-low output",
+    "pins": {
+        "2dd6de79-3465-4744-8255-d944d1e24dc6": {
+            "decoration": {
+                "clock": false,
+                "dot": true,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                12500000,
+                0
+            ]
+        },
+        "555bb0d9-6029-4ded-811f-a4b19982daa6": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                0,
+                -8750000
+            ]
+        },
+        "e73c08cc-b3a2-4595-a477-752b2cda84a9": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "up",
+            "pad_visible": true,
+            "position": [
+                0,
+                8750000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "07ad9728-60d0-467a-9917-954307981c0d": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    -7500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "b08d1277-eb95-4bd0-8bb9-063a813559df": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    7500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "2b9481ce-9ebb-4152-965d-2df42fdd876a",
+    "uuid": "842725ce-9c56-4290-be6e-6beb6907f0b6"
+}
