@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "2N7002"
+    ],
+    "base": "bc4a2e05-f398-41ec-bf5b-112248834174",
+    "datasheet": [
+        false,
+        "https://api.shikues.com/pdf/2N7002.pdf"
+    ],
+    "description": [
+        false,
+        "SOT-23 N-channel MOSFET"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Shikues"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "5acb58e3-d98f-4db4-bf2d-2e3d2be9fbcb",
+    "value": [
+        true,
+        "base SOT-23 N-channel MOSFET"
+    ]
+}
