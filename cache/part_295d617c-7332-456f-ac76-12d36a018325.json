@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "AZ1117CD-3.3"
+    ],
+    "base": "b4480233-2466-454c-86d9-fc78be4a8e5b",
+    "datasheet": [
+        true,
+        "https://www.diodes.com/assets/Datasheets/AZ1117C.pdf"
+    ],
+    "description": [
+        false,
+        "3.3V, 800mA LDO Voltage Regulator"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Diodes Inc."
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "295d617c-7332-456f-ac76-12d36a018325",
+    "value": [
+        true,
+        "AZ1117CD"
+    ]
+}
