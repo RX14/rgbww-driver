@@ -3039,13 +3039,13 @@
                     "junction": "9215e0c0-5bca-4024-8e8c-6612aba6b07c",
                     "offsheet_refs": true,
                     "orientation": "left",
-                    "size": 1500000
+                    "size": 1000000
                 },
                 "26eb8ed0-af22-4a38-bc8e-28343a9344b1": {
                     "junction": "6990f83f-e78c-498f-99c7-3fc16a3761dd",
                     "offsheet_refs": true,
                     "orientation": "left",
-                    "size": 1500000
+                    "size": 1000000
                 },
                 "30ae0ff7-1a6f-48bc-a118-85d829a3c4e7": {
                     "junction": "955edc14-a3a5-4097-b6a6-2326dfb6b9a0",
@@ -3093,7 +3093,7 @@
                     "junction": "91a505a7-dbeb-48c2-9e87-a9b4b8c96017",
                     "offsheet_refs": true,
                     "orientation": "left",
-                    "size": 1500000
+                    "size": 1000000
                 },
                 "799776fa-19ce-414f-8cad-917731dd7536": {
                     "junction": "59e5386d-bf1f-446a-9c07-1025f8bc08ba",
@@ -3105,7 +3105,7 @@
                     "junction": "132f5118-821e-4fb4-8788-cba8e9f87262",
                     "offsheet_refs": true,
                     "orientation": "left",
-                    "size": 1500000
+                    "size": 1000000
                 },
                 "96027b42-2193-4b46-86f5-a747670eab68": {
                     "junction": "adcc23cf-9c80-47e2-96c1-d46c69a1f71f",
@@ -3117,7 +3117,7 @@
                     "junction": "6f06ca57-5804-4db3-8ba9-f5120a8b3eac",
                     "offsheet_refs": true,
                     "orientation": "left",
-                    "size": 1500000
+                    "size": 1000000
                 },
                 "a69b1489-aad2-4d9a-b0b1-4448f4d7d709": {
                     "junction": "6bfbd621-aa24-4435-94d8-6e2cc6e8a41d",
@@ -3147,7 +3147,7 @@
                     "junction": "f2fa6079-529b-4c92-a3cb-ae4c8254d344",
                     "offsheet_refs": true,
                     "orientation": "left",
-                    "size": 1500000
+                    "size": 1000000
                 },
                 "d6b73273-6f5a-40bd-aa56-51627c41e226": {
                     "junction": "71e9471a-8c66-4266-82ba-14942e108c26",
@@ -3159,7 +3159,7 @@
                     "junction": "573b8381-58cf-474b-9530-f3cdca1ed7c6",
                     "offsheet_refs": true,
                     "orientation": "left",
-                    "size": 1500000
+                    "size": 1000000
                 },
                 "ebc5dceb-13f7-4592-9b8c-640df9b39325": {
                     "junction": "b0f76634-fb88-48c4-a70a-333107f18a64",
