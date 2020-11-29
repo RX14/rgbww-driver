@@ -2869,12 +2869,6 @@
                         121250000
                     ]
                 },
-                "9ccf4fc2-3747-4a71-ac46-d8978a629f34": {
-                    "position": [
-                        113750000,
-                        111250000
-                    ]
-                },
                 "a431b12e-d0c4-4a9f-8212-c7606a8e4268": {
                     "position": [
                         21250000,
@@ -3403,6 +3397,18 @@
                         "pin": null
                     }
                 },
+                "2940999a-30ca-4ad3-9f2b-bcf32dc8e7bb": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "5ee0290d-51f2-47d4-8cad-4aedccbacbb9/555bb0d9-6029-4ded-811f-a4b19982daa6"
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "5e7112a4-1c1d-4db8-845f-694d74ef91e9/dda0ec99-5d70-4fbe-a8db-897542e7554e"
+                    }
+                },
                 "2e096e77-10e9-4aa5-891c-98364a4b733f": {
                     "from": {
                         "bus_ripper": null,
@@ -3847,18 +3853,6 @@
                         "pin": null
                     }
                 },
-                "aabb381b-e704-4579-a260-1ec45fad6187": {
-                    "from": {
-                        "bus_ripper": null,
-                        "junc": "9ccf4fc2-3747-4a71-ac46-d8978a629f34",
-                        "pin": null
-                    },
-                    "to": {
-                        "bus_ripper": null,
-                        "junc": null,
-                        "pin": "5e7112a4-1c1d-4db8-845f-694d74ef91e9/dda0ec99-5d70-4fbe-a8db-897542e7554e"
-                    }
-                },
                 "b6c407ca-41f7-4ddf-b0ad-47220eeaf36c": {
                     "from": {
                         "bus_ripper": null,
@@ -4012,18 +4006,6 @@
                     "to": {
                         "bus_ripper": null,
                         "junc": "813cbb75-6aab-4c73-a2e4-d12ca6aa2f7e",
-                        "pin": null
-                    }
-                },
-                "f311ebf3-c62a-4f92-95b4-3207c6a3fa62": {
-                    "from": {
-                        "bus_ripper": null,
-                        "junc": "33126e6e-359d-4e54-8794-0059133c08bb",
-                        "pin": null
-                    },
-                    "to": {
-                        "bus_ripper": null,
-                        "junc": "9ccf4fc2-3747-4a71-ac46-d8978a629f34",
                         "pin": null
                     }
                 },
