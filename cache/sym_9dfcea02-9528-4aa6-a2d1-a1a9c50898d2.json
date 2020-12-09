@@ -4,25 +4,25 @@
     "junctions": {
         "15e5ca87-ef7e-42a7-949c-c59caaf1e734": {
             "position": [
-                -17500000,
+                -12500000,
                 -17500000
             ]
         },
         "1702f112-bbe8-40b6-91b4-f348787b239b": {
             "position": [
-                -17500000,
+                -12500000,
                 17500000
             ]
         },
         "41d39a8e-1db3-4cf1-98f8-1a675bf662a8": {
             "position": [
-                17500000,
+                12500000,
                 17500000
             ]
         },
         "5d009edf-d0b8-4e78-8f0b-5e67abf11a5c": {
             "position": [
-                17500000,
+                12500000,
                 -17500000
             ]
         }
@@ -68,7 +68,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 -13750000
             ]
         },
@@ -85,7 +85,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -20000000,
+                -15000000,
                 -11250000
             ]
         },
@@ -102,7 +102,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -20000000,
+                -15000000,
                 12500000
             ]
         },
@@ -119,7 +119,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -20000000,
+                -15000000,
                 -6250000
             ]
         },
@@ -136,7 +136,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 13750000
             ]
         },
@@ -153,7 +153,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 -11250000
             ]
         },
@@ -170,7 +170,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -20000000,
+                -15000000,
                 10000000
             ]
         },
@@ -187,7 +187,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 -6250000
             ]
         },
@@ -204,7 +204,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 3750000
             ]
         },
@@ -221,7 +221,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 8750000
             ]
         },
@@ -238,7 +238,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -20000000,
+                -15000000,
                 3750000
             ]
         },
@@ -255,7 +255,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 -1250000
             ]
         },
@@ -272,7 +272,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 6250000
             ]
         },
@@ -289,7 +289,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -20000000,
+                -15000000,
                 6250000
             ]
         },
@@ -306,7 +306,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 -3750000
             ]
         },
@@ -323,7 +323,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 1250000
             ]
         },
@@ -340,7 +340,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -20000000,
+                -15000000,
                 -1250000
             ]
         },
@@ -357,7 +357,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 -8750000
             ]
         },
@@ -374,7 +374,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -20000000,
+                -15000000,
                 1250000
             ]
         },
@@ -391,7 +391,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 11250000
             ]
         },
@@ -408,7 +408,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -20000000,
+                -15000000,
                 -13750000
             ]
         },
@@ -425,7 +425,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -20000000,
+                -15000000,
                 -3750000
             ]
         },
@@ -442,7 +442,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -20000000,
+                -15000000,
                 -8750000
             ]
         },
@@ -459,7 +459,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -20000000,
+                -15000000,
                 16250000
             ]
         },
@@ -476,7 +476,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 16250000
             ]
         },
@@ -488,7 +488,7 @@
                 "schmitt": false
             },
             "length": 2500000,
-            "name_orientation": "in_line",
+            "name_orientation": "horizontal",
             "name_visible": true,
             "orientation": "down",
             "pad_visible": true,
@@ -510,7 +510,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                20000000,
+                15000000,
                 -16250000
             ]
         },
@@ -527,7 +527,7 @@
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -20000000,
+                -15000000,
                 -16250000
             ]
         },
@@ -539,7 +539,7 @@
                 "schmitt": false
             },
             "length": 2500000,
-            "name_orientation": "in_line",
+            "name_orientation": "horizontal",
             "name_visible": true,
             "orientation": "up",
             "pad_visible": true,
@@ -561,7 +561,7 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    2500000,
+                    1250000,
                     -18750000
                 ]
             },
@@ -578,7 +578,7 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    2500000,
+                    1250000,
                     18750000
                 ]
             },

@@ -4,26 +4,26 @@
     "junctions": {
         "08ab012e-5bc8-40f0-9358-3bec2f70bd66": {
             "position": [
-                10000000,
-                6250000
+                7500000,
+                5000000
             ]
         },
         "090ae1de-d2de-4f06-bfe8-70c21a44ab59": {
             "position": [
-                10000000,
-                -6250000
+                7500000,
+                -5000000
             ]
         },
         "1db602bd-a6a8-4dd5-adec-6475cef6d3b3": {
             "position": [
-                -10000000,
-                6250000
+                -7500000,
+                5000000
             ]
         },
         "76b9f1b3-0361-425e-a451-e43aea953b8b": {
             "position": [
-                -10000000,
-                -6250000
+                -7500000,
+                -5000000
             ]
         }
     },
@@ -68,7 +68,7 @@
             "orientation": "right",
             "pad_visible": true,
             "position": [
-                12500000,
+                10000000,
                 0
             ]
         },
@@ -80,13 +80,13 @@
                 "schmitt": false
             },
             "length": 2500000,
-            "name_orientation": "in_line",
+            "name_orientation": "horizontal",
             "name_visible": true,
             "orientation": "down",
             "pad_visible": true,
             "position": [
                 0,
-                -8750000
+                -7500000
             ]
         },
         "e73c08cc-b3a2-4595-a477-752b2cda84a9": {
@@ -97,13 +97,13 @@
                 "schmitt": false
             },
             "length": 2500000,
-            "name_orientation": "in_line",
+            "name_orientation": "horizontal",
             "name_visible": true,
             "orientation": "up",
             "pad_visible": true,
             "position": [
                 0,
-                8750000
+                7500000
             ]
         }
     },
@@ -119,8 +119,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    2500000,
-                    -7500000
+                    1250000,
+                    -6250000
                 ]
             },
             "size": 1500000,
@@ -136,8 +136,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    2500000,
-                    7500000
+                    1250000,
+                    6250000
                 ]
             },
             "size": 1500000,
