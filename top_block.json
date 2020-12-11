@@ -596,6 +596,25 @@
             "tag": "edf9390d-da56-41b0-81d5-5c6cdd96ec4c",
             "value": ""
         },
+        "5ea56a2f-69db-4c13-aa0a-caeacdfb5d20": {
+            "connections": {
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/29995253-b4b1-4c7c-a049-b6db2713ca7c": {
+                    "net": "4d0e37f2-f6fa-4f81-9f48-94bac8b348c5"
+                },
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/852f1fe6-06dc-4661-8a14-61a9a6ebb26a": {
+                    "net": "7df145f2-ec8b-4a6f-bd88-347a37860dda"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "nopopulate": true,
+            "part": "bc8feff3-ca05-471a-aaa3-4087e170f476",
+            "pin_names": {},
+            "refdes": "C13",
+            "tag": "b3bfc7c7-ba24-4357-9a3d-49ffcc663ba6",
+            "value": ""
+        },
         "606b8567-b02d-44b3-b23e-e5a5e7ba841b": {
             "connections": {
                 "8b4c20d8-37fd-40a5-8239-db8803c0baa0/20f0495c-5e6e-4975-b440-1399ca09d3c3": {
@@ -823,6 +842,24 @@
             "pin_names": {},
             "refdes": "BOOT",
             "tag": "b20e0aee-b000-47a7-bd12-37d5b2c09337",
+            "value": ""
+        },
+        "91bf2420-bbd2-48f1-8584-ce9826153fbf": {
+            "connections": {
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/29995253-b4b1-4c7c-a049-b6db2713ca7c": {
+                    "net": "7df145f2-ec8b-4a6f-bd88-347a37860dda"
+                },
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/852f1fe6-06dc-4661-8a14-61a9a6ebb26a": {
+                    "net": "f6a26abc-ec07-4296-993e-257f2ed11b93"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "2428fab4-a9d2-4dd1-b044-12d8092856b0",
+            "pin_names": {},
+            "refdes": "C12",
+            "tag": "d4de333a-40c7-4890-af36-27c35fab79bb",
             "value": ""
         },
         "921b718a-80db-4355-9b1e-9d14b2d5962d": {
@@ -1682,6 +1719,7 @@
         "bba59faf-1da4-4c12-ab19-95fe1fd3b723": "18",
         "cc35a426-a38a-4bb4-ae9b-3fff20bfc300": "8",
         "cfacb3b8-8463-489b-a79a-1dbe514b2e60": "25",
+        "d4de333a-40c7-4890-af36-27c35fab79bb": "41",
         "dbd43dfc-c7ee-4fcd-8416-97b455cbfba8": "9",
         "e4fd9b8e-c9af-4546-a0aa-40c8352e97ea": "26",
         "e69b5f7f-489d-4e17-825f-8435c3988b38": "7",
