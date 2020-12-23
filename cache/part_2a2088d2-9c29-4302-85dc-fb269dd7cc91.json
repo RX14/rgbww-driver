@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "Two-terminal 1mm Copper Test Point"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "341615ab-7f4c-48a3-8159-864af6e351fe",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "3c434a61-763c-4f1d-b67c-8166ca33a308",
+    "pad_map": {
+        "785c0eb6-d3fe-4ed5-91d2-1c13773079f6": {
+            "gate": "fe14b232-7b4d-40c3-a298-42c5dbcb6905",
+            "pin": "0bfe5c7a-57a7-4edc-a0bf-90e5c1fe814d"
+        },
+        "87ea60fb-a166-46bd-98c5-c046380ffaa8": {
+            "gate": "fe14b232-7b4d-40c3-a298-42c5dbcb6905",
+            "pin": "6348fd08-9155-40d8-83d5-b14c0d9341fb"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "2a2088d2-9c29-4302-85dc-fb269dd7cc91",
+    "value": [
+        false,
+        ""
+    ]
+}

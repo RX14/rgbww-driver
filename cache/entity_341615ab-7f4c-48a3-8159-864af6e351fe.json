@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "fe14b232-7b4d-40c3-a298-42c5dbcb6905": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f3dae0e9-b1aa-4202-999f-b43af8dfe202"
+        }
+    },
+    "manufacturer": "",
+    "name": "Two-terminal Test Point",
+    "prefix": "TP",
+    "tags": [],
+    "type": "entity",
+    "uuid": "341615ab-7f4c-48a3-8159-864af6e351fe"
+}

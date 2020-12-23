@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Two-terminal Test Point",
+    "pins": {
+        "0bfe5c7a-57a7-4edc-a0bf-90e5c1fe814d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "6348fd08-9155-40d8-83d5-b14c0d9341fb": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f3dae0e9-b1aa-4202-999f-b43af8dfe202"
+}
