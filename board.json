@@ -385,6 +385,12 @@
                 2005000
             ]
         },
+        "1ece8742-56e2-4221-bb5e-209e6cb6ee04": {
+            "position": [
+                -22000000,
+                -26750000
+            ]
+        },
         "1fb4d64d-e7ef-4ac1-a3b6-769691ce28d6": {
             "position": [
                 5700000,
@@ -10995,6 +11001,17 @@
             "junction": "c15a871e-c12e-4a9c-9f9e-ec0628d42afe",
             "locked": false,
             "net_set": "753a11f4-1848-4947-849f-c15d71453e36",
+            "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
+            "parameter_set": {
+                "hole_diameter": 300000,
+                "via_diameter": 600000
+            }
+        },
+        "4d995a6d-d137-49ea-9a52-c4aa6be5871c": {
+            "from_rules": true,
+            "junction": "1ece8742-56e2-4221-bb5e-209e6cb6ee04",
+            "locked": false,
+            "net_set": "7df145f2-ec8b-4a6f-bd88-347a37860dda",
             "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
             "parameter_set": {
                 "hole_diameter": 300000,
