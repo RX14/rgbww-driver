@@ -1,0 +1,32 @@
+{
+    "manufacturer": "Murata",
+    "name": "Low-Pass Filter (directional, differential)",
+    "pins": {
+        "033a7ff4-35bf-4870-b7cf-1a21ce0b31b6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN-",
+            "swap_group": 0
+        },
+        "387fbcbe-69dc-4698-a63b-449860321f06": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT-",
+            "swap_group": 0
+        },
+        "4c21e70c-56ae-459b-8640-773b6734e0c6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN+",
+            "swap_group": 0
+        },
+        "aa91750a-fdc8-46fc-8809-ed0916923f2b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT+",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e6e75bf0-7b69-4c7e-aac6-dec63377d136"
+}

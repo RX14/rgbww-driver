@@ -1,0 +1,61 @@
+{
+    "MPN": [
+        false,
+        "base BNX02 part"
+    ],
+    "datasheet": [
+        false,
+        "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx"
+    ],
+    "description": [
+        false,
+        "Block EMI Supression Filter"
+    ],
+    "entity": "963a9aa7-0dc5-4c02-92cc-294724d52613",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "b40e5e51-7824-4cd0-9cbc-23f5f5e85bcd",
+    "pad_map": {
+        "17eef046-7d0f-4fbd-a3b2-de755cda00ec": {
+            "gate": "45fcfa8b-c7f2-4ba0-96d9-76d0fb00b289",
+            "pin": "387fbcbe-69dc-4698-a63b-449860321f06"
+        },
+        "1c807a17-5fd1-45a4-a51c-3e6148158f9d": {
+            "gate": "45fcfa8b-c7f2-4ba0-96d9-76d0fb00b289",
+            "pin": "387fbcbe-69dc-4698-a63b-449860321f06"
+        },
+        "5a635b61-3db8-4095-99bb-e1b87b2a13ff": {
+            "gate": "45fcfa8b-c7f2-4ba0-96d9-76d0fb00b289",
+            "pin": "4c21e70c-56ae-459b-8640-773b6734e0c6"
+        },
+        "8e110258-786c-4652-88c4-ed8342f08a66": {
+            "gate": "45fcfa8b-c7f2-4ba0-96d9-76d0fb00b289",
+            "pin": "033a7ff4-35bf-4870-b7cf-1a21ce0b31b6"
+        },
+        "a7fc3bb9-debe-49c4-b53b-f031a55a0a9f": {
+            "gate": "45fcfa8b-c7f2-4ba0-96d9-76d0fb00b289",
+            "pin": "387fbcbe-69dc-4698-a63b-449860321f06"
+        },
+        "c625bffb-814e-43e6-9008-8bd786daf2b7": {
+            "gate": "45fcfa8b-c7f2-4ba0-96d9-76d0fb00b289",
+            "pin": "aa91750a-fdc8-46fc-8809-ed0916923f2b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "emi",
+        "filter",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "f7a9d2c7-1a93-42c6-94ee-800389c285d7",
+    "value": [
+        false,
+        ""
+    ]
+}

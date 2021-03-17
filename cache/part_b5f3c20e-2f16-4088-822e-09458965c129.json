@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "BNX024H01"
+    ],
+    "base": "f7a9d2c7-1a93-42c6-94ee-800389c285d7",
+    "datasheet": [
+        false,
+        "https://www.murata.com/en-eu/products/productdetail?partno=BNX024H01%23"
+    ],
+    "description": [
+        true,
+        "Block EMI Supression Filter"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Murata"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "1557c85f-b4f5-4a72-93b3-5360764b27d9": "BNX024H01B",
+        "7686cb69-eac3-4064-8599-2e87d02bf121": "BNX024H01K",
+        "a7e0207a-c2b5-47b7-9827-fe80fb540bd5": "BNX024H01L"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b5f3c20e-2f16-4088-822e-09458965c129",
+    "value": [
+        true,
+        "base BNX02 part"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "45fcfa8b-c7f2-4ba0-96d9-76d0fb00b289": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e6e75bf0-7b69-4c7e-aac6-dec63377d136"
+        }
+    },
+    "manufacturer": "",
+    "name": "Low-Pass Filter (directional, differential)",
+    "prefix": "FL",
+    "tags": [
+        "emi",
+        "filter"
+    ],
+    "type": "entity",
+    "uuid": "963a9aa7-0dc5-4c02-92cc-294724d52613"
+}
