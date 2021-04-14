@@ -11,7 +11,7 @@
     "pads": {
         "785c0eb6-d3fe-4ed5-91d2-1c13773079f6": {
             "name": "2",
-            "padstack": "a30662a8-e83b-4e69-b92e-97e827c5eb3e",
+            "padstack": "f319994c-f37b-4fc5-bff8-b8295416c649",
             "parameter_set": {
                 "pad_diameter": 1000000
             },
@@ -26,7 +26,7 @@
         },
         "87ea60fb-a166-46bd-98c5-c046380ffaa8": {
             "name": "1",
-            "padstack": "a30662a8-e83b-4e69-b92e-97e827c5eb3e",
+            "padstack": "f319994c-f37b-4fc5-bff8-b8295416c649",
             "parameter_set": {
                 "pad_diameter": 1000000
             },

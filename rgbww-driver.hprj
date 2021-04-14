@@ -10,9 +10,11 @@
     "name": "",
     "pictures_filename": "pictures",
     "pool_cache_directory": "cache",
+    "pool_directory": "pool",
     "pool_uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
     "title": "",
     "type": "project",
     "uuid": "bb553cda-2ee9-4515-b69f-75476fdad61d",
+    "version": 1,
     "vias_directory": "vias"
 }

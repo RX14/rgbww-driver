@@ -2,3 +2,8 @@
 *.autosave
 .~lock*
 /fab/
+*.bak
+3d_models/local
+tmp/*.json
+*.db-*
+*.db

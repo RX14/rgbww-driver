@@ -1,11 +1,10 @@
 {
     "holes": {},
-    "name": "SMD circular (No Paste)",
+    "name": "SMD circular (no paste)",
     "padstack_type": "top",
     "parameter_program": "get-parameter [ pad_diameter ]\ndup\ndup\nset-shape [ pad circle ]\nget-parameter [ solder_mask_expansion ]\n2 *\n+\nset-shape [ mask circle ]",
     "parameter_set": {
         "pad_diameter": 800000,
-        "paste_mask_contraction": 0,
         "solder_mask_expansion": 100000
     },
     "parameters_required": [
@@ -47,6 +46,6 @@
         }
     },
     "type": "padstack",
-    "uuid": "a30662a8-e83b-4e69-b92e-97e827c5eb3e",
+    "uuid": "f319994c-f37b-4fc5-bff8-b8295416c649",
     "well_known_name": ""
 }

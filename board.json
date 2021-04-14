@@ -11414,7 +11414,7 @@
     },
     "type": "board",
     "uuid": "5ff1952f-4801-4dfb-9e99-33f54edba02d",
-    "version": 3,
+    "version": 4,
     "vias": {
         "00b8f1e6-2d36-401d-a5fd-624689658bd3": {
             "from_rules": true,
